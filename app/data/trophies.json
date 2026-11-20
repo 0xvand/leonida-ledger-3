@@ -1,0 +1,471 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "edition": "Leonida Ledger — Week One Edition",
+ "rarityScale": "Common 40%+, Uncommon 15-39.9%, Rare 5-14.9%, Very Rare 1-4.9%, Ultra Rare under 1% of Exophase-tracked players",
+ "rarityRead": "Earn rates read from Exophase on 21 November 2026, two days after launch; they move fast in week one.",
+ "trophies": [
+  {
+   "id": 1, "name": "Vice Got a Price!", "description": "Congratulations! You're a Leonida Legend.", "grade": "platinum", "points": 300,
+   "secret": false, "kind": "story", "section": "Platinum", "missable": false, "target": "All other 54 trophies",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "55-85 h total",
+   "guide": "The platinum pops the moment the other 54 trophies are all on your account, so there is nothing to hunt for directly: work the roadmap in this guide from the top, keep the missable strands moving alongside the story, and let this be the last notification you see. If everything else shows earned and this has not fired, close and relaunch the game so the trophy sync re-checks the set.",
+   "steps": ["Finish the story chapters and the final mission", "Clear all six stranger strands plus Bret's hunt", "Sweep collectibles, activities and the money trophies", "Attain 100% completion for A Long Road", "Let the platinum award itself on the final sync"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 2, "name": "Just Like Paradise", "description": "Complete Gone Fishing.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Prologue — Gone Fishing", "missable": false, "target": "1 mission",
+   "earnPct": 100.0, "rarity": "Common", "time": "~1 h",
+   "guide": "Gone Fishing is the opening mission and the first thing the game asks you to do, which is why every tracked player owns this trophy. Play through the prologue at the default pace, learn the fishing and movement prompts as they appear, and the trophy awards itself at the mission's end card. Nothing here can be missed: it gates the rest of the game.",
+   "steps": ["Start a new game and follow the opening prompts", "Complete the fishing sequence as instructed", "Finish the prologue's closing scene", "Trophy awards at the mission end card"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 3, "name": "Paradise Lost", "description": "Complete Chapter 1.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Chapter 1", "missable": false, "target": "Chapter 1",
+   "earnPct": 11.98, "rarity": "Rare", "time": "~4 h",
+   "guide": "Awarded for finishing every Chapter 1 story mission in order. Follow the letter markers on the map, keep one manual save at the chapter's start in case you want a clean re-run, and the trophy lands on the chapter-complete screen. Roughly one tracked player in eight had it two days after launch, so a single focused evening clears it.",
+   "steps": ["Play each Chapter 1 mission as it unlocks", "Keep a manual save before the chapter finale", "Finish the chapter's closing mission", "Trophy awards on the chapter-complete screen"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 4, "name": "T**s Ass Drug Money", "description": "Complete Chapter 2.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Chapter 2", "missable": false, "target": "Chapter 2",
+   "earnPct": 1.71, "rarity": "Very Rare", "time": "~6 h",
+   "guide": "The Chapter 2 completion trophy, name masked on PlayStation exactly as shown here. Work the chapter's missions in order and stock up before its longer set pieces; the earn rate falls off a cliff after Chapter 1 (under 2% in week one), which says more about the game's length than its difficulty. The trophy fires on the chapter-complete screen.",
+   "steps": ["Clear every Chapter 2 mission marker in order", "Restock ammo and armour before the long missions", "Finish the chapter finale", "Trophy awards on the chapter-complete screen"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 5, "name": "Vice City, Baby!", "description": "Complete Chapter 3.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Chapter 3", "missable": false, "target": "Chapter 3",
+   "earnPct": 0.03, "rarity": "Ultra Rare", "time": "~7 h",
+   "guide": "Chapter 3's completion trophy. By this point the map and the stranger strands are fully open, so the efficient play is to clear each new strand's current step whenever a story trip takes you past it, rather than backtracking later. Keep rotating manual saves: the strand windows reported by TechWiser are tied to story progress, and Chapter 3 is where falling behind on them starts to bite.",
+   "steps": ["Play Chapter 3 missions in order", "Advance nearby stranger strands between missions", "Keep a fresh manual save before each finale-grade mission", "Trophy awards on the chapter-complete screen"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies", "TechWiser — stranger-chain story windows"]
+  },
+  {
+   "id": 6, "name": "Top Of The World, Ma", "description": "Complete Chapter 4.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Chapter 4", "missable": false, "target": "Chapter 4",
+   "earnPct": 0.02, "rarity": "Ultra Rare", "time": "~7 h",
+   "guide": "The last full chapter before the finale. Before you start its closing missions, sweep the map: finish any stranger strand that is still open, because the endgame sequence is the point of no return this guide warns about in the roadmap. With the strands banked, play the chapter out and the trophy awards on its completion screen.",
+   "steps": ["Before the chapter finale, finish every open stranger strand", "Save manually in a fresh slot", "Play Chapter 4 to its completion screen", "Trophy awards at the chapter's end"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies", "TechWiser — stranger-chain story windows"]
+  },
+  {
+   "id": 7, "name": "You Gotta Know When to Get Off", "description": "Complete the final mission.", "grade": "gold", "points": 90,
+   "secret": true, "kind": "story", "section": "Finale", "missable": false, "target": "Final mission",
+   "earnPct": 0.02, "rarity": "Ultra Rare", "time": "~3 h",
+   "guide": "The gold for finishing the story's final mission (some outlets word the finale as Chapter 5). Treat the game warning you about a point of no return as real: bank the stranger strands, make a hard manual save, and only then step in. The trophy awards as the credits sequence begins. Everything left afterwards is free-roam cleanup toward 100%.",
+   "steps": ["Finish all stranger strands before the point of no return", "Make a hard manual save in its own slot", "Complete the final mission", "Trophy awards as the finale resolves"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 8, "name": "Trust", "description": "Complete Breakfast Run.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Story missions", "missable": false, "target": "1 mission",
+   "earnPct": 4.26, "rarity": "Very Rare", "time": "~30 min",
+   "guide": "Breakfast Run is an early named story mission, and its 4.26% week-one rate makes it the most-earned of the hidden mission trophies: most players who clear Chapter 1 meet it. It cannot be skipped, so simply play the story and it awards on the mission-complete screen. If you are replaying for medals, it is one of the shorter missions to gold.",
+   "steps": ["Reach Breakfast Run in the story order", "Complete the mission's delivery route", "Trophy awards on the mission-complete screen"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 9, "name": "Break the Bank", "description": "Complete The Cartel Heist.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Story missions", "missable": false, "target": "1 mission",
+   "earnPct": 0.03, "rarity": "Ultra Rare", "time": "~45 min",
+   "guide": "The Cartel Heist is a mid-story set piece and plays like one: go in with full armour, a stocked wheel and your best rifle, and take the loud approach only if your aim is confident, because the escape is the hard half. The trophy is for completion, not style, so any approach counts and it awards on the mission-complete screen.",
+   "steps": ["Start The Cartel Heist from its story marker", "Clear the vault phase and the escape", "Lose the heat or reach the drop-off", "Trophy awards on the mission-complete screen"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 10, "name": "Family Matters", "description": "Complete Child's Play.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Story missions", "missable": false, "target": "1 mission",
+   "earnPct": 0.02, "rarity": "Ultra Rare", "time": "~40 min",
+   "guide": "Child's Play is a story mission later in the campaign; nothing about its trophy is conditional. Play it when its marker appears, follow the objective chain to the end, and the award lands on completion. Because it sits deep in the story, its week-one rate is tiny: expect it on the way to the finale rather than as a target of its own.",
+   "steps": ["Reach Child's Play in the story order", "Work through its objective chain", "Trophy awards on the mission-complete screen"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 11, "name": "DWNFALL", "description": "Complete Headliners.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Story missions", "missable": false, "target": "1 mission",
+   "earnPct": 0.02, "rarity": "Ultra Rare", "time": "~40 min",
+   "guide": "Headliners is a named story mission whose trophy is a straight completion award. It arrives late enough that almost no week-one player had reached it (0.02%), so treat it as a milestone on the road to the finale: keep your loadout current, play it when the marker appears, and the trophy follows on the completion screen.",
+   "steps": ["Reach Headliners in the story order", "Complete its objective chain", "Trophy awards on the mission-complete screen"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 12, "name": "Hi-Jacked", "description": "Complete VCIA Takedown.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Story missions", "missable": false, "target": "1 mission",
+   "earnPct": 0.02, "rarity": "Ultra Rare", "time": "~45 min",
+   "guide": "VCIA Takedown is the story's airport operation at Vice City International. Completion is all the trophy asks: bring armour for the open-ground phases, use the terminal cover rather than crossing the apron in the open, and the award fires when the mission closes. It shares its location with the free-roam Catch Me If You Can trophy, which you can pick up on any later visit.",
+   "steps": ["Reach VCIA Takedown in the story order", "Fight through the airport phases using cover", "Trophy awards on the mission-complete screen"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 13, "name": "Snow Storm", "description": "Complete Operation Savage Glory.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Story missions", "missable": false, "target": "1 mission",
+   "earnPct": 0.02, "rarity": "Ultra Rare", "time": "~45 min",
+   "guide": "Operation Savage Glory is one of the campaign's late named missions and, like the other mission trophies, it simply asks for completion. Go in stocked, expect a long combat tail, and the trophy awards on the completion screen. If a checkpoint turns sour, dropping to a fresh approach beats burning supplies: there is no medal condition on this award.",
+   "steps": ["Reach Operation Savage Glory in the story order", "Complete its combat phases", "Trophy awards on the mission-complete screen"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 14, "name": "A Long Road", "description": "Attain 100% Completion.", "grade": "gold", "points": 90,
+   "secret": false, "kind": "activities", "section": "100% completion", "missable": false, "target": "100% game completion",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "55-85 h total",
+   "guide": "The gold every outlet calls the hardest trophy in the game: the in-game 100% checklist, not the trophy list. Story, all stranger strands, collectibles, activities, hobbies and the map itself all feed the percentage, so track it in the pause menu rather than guessing. The practical method is to finish the story first, then work this tracker's sections in order; the last few percent are always collectibles someone walked past.",
+   "steps": ["Finish the story and all stranger strands", "Open the in-game 100% checklist and note every open line", "Sweep collectibles and activities section by section in this tracker", "Reach 100.0% on the in-game counter", "Trophy awards when the counter tops out"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies", "EGamers — GTA 6 trophy list and hardest trophies"]
+  },
+  {
+   "id": 15, "name": "Cunning Stunts", "description": "Complete 250 Stunts.", "grade": "silver", "points": 30,
+   "secret": false, "kind": "activities", "section": "Stunt jumps", "missable": false, "target": "250 stunts",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "6-10 h",
+   "guide": "Two hundred and fifty stunt jumps is the biggest single grind on the list, so do not leave it for the end: clear every ramp you pass during the story and the counter quietly does most of the work. A stunt only counts on a clean landing, so approach each ramp square, at the speed the run-up suggests, and bail rather than crash-land. The in-game checklist tracks the total; save the remote countryside ramps for one dedicated sweep with a fast bike.",
+   "steps": ["Tag every stunt ramp you pass while doing story missions", "Land cleanly: square approach, wheels down, no crash", "Check the running total in the in-game checklist", "Sweep the remaining rural ramps in one route", "Trophy awards on the 250th clean stunt"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 16, "name": "Master of None", "description": "Try each type of activity once.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "activities", "section": "Activity sampler", "missable": false, "target": "Every activity type once",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "2-3 h",
+   "guide": "A sampler trophy: start every distinct activity type on the map once — races, fishing, the range, arcade machines, drone events and the rest of the icon set. You do not have to win or even finish most of them; starting is what registers. Work icon by icon in one district at a time and cross-reference the activity list in the pause menu, because the easy one to miss is whichever type only spawns in a single location.",
+   "steps": ["Open the map and list every distinct activity icon", "Start one event of each type, district by district", "Check the pause-menu activity list for gaps", "Trophy awards when the last type registers"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 17, "name": "The Shootist", "description": "Earn a gold medal in all Shooting Range challenges.", "grade": "silver", "points": 30,
+   "secret": false, "kind": "activities", "section": "Shooting range", "missable": false, "target": "Gold in every range challenge (42 tracked)",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "3-5 h",
+   "guide": "Gold in every Shooting Range challenge is a pure aim test, and the range is the one place the game lets you practice for free. Learn each challenge's target rhythm on a sighting run, then chase gold: accuracy chains score faster than raw speed, so a calm trigger beats a fast one. Turn aim sensitivity down a notch if you overshoot small targets, and do the pistol set first — its tighter medals teach the timing the rifle and shotgun sets reuse.",
+   "steps": ["Run each challenge once to learn its target pattern", "Replay for gold: prioritise accuracy chains over speed", "Work weapon class by weapon class", "Trophy awards when the last challenge shows gold"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 18, "name": "Top Fun", "description": "Win a Top Fun Drone Race at every location.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "activities", "section": "Drone races", "missable": false, "target": "Win at every drone-race location",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "2-3 h",
+   "guide": "Top Fun means winning, not just entering, the drone race at every location on the map. Fly each course once slowly to learn the gate order, then attack it: the winning line cuts corners inside the gates and bleeds speed before the tight turns rather than after them. A lost race costs nothing but the restart, so chain attempts while the course is fresh in your hands.",
+   "steps": ["Scout each course once, noting the gate order", "Race for the win: cut inside gates, brake before turns", "Tick off each location in the in-game list", "Trophy awards on the final location's win"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 19, "name": "Earn Cash, Not Kudos", "description": "Win 20 different races.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "activities", "section": "Races", "missable": false, "target": "20 different race wins",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "3-4 h",
+   "guide": "Twenty wins in twenty different races — repeating one easy circuit does not move the counter. Bring a tuned car in its class, learn each route's last two corners (that is where the AI bunches up), and take the wins district by district. Street races at night run lighter traffic, which makes the early wins cheaper; save the technical courses for when your garage is stronger.",
+   "steps": ["Pick a race you have not won and bring a class-legal tuned car", "Win it, then move to a new event rather than repeating", "Track the distinct-win count in the checklist", "Trophy awards on the 20th different win"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 20, "name": "Baited My Tackle", "description": "Beat Cal in a fishing challenge.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "activities", "section": "Fishing", "missable": false, "target": "Beat Cal once",
+   "earnPct": 13.3, "rarity": "Rare", "time": "~20 min",
+   "guide": "The most-earned non-story trophy in week one (13.30%): Cal's fishing challenge is available early and half the player base has already beaten him. Accept the challenge at his spot, match his target species rather than fishing your own plan, and play the tension gauge conservatively — a lost fish costs more time than a slow reel-in. One win is all it takes.",
+   "steps": ["Find Cal's fishing challenge marker", "Accept and match the target species", "Keep line tension in the safe band on each catch", "Out-catch Cal before the timer ends", "Trophy awards on the win"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 21, "name": "Stick Fiddler", "description": "Complete an arcade game.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "activities", "section": "Arcades", "missable": false, "target": "Finish 1 arcade game",
+   "earnPct": 1.42, "rarity": "Very Rare", "time": "~15 min",
+   "guide": "Walk into any arcade, sit at a cabinet and play one of its games to an actual finish — a game over screen counts as completing the run, quitting mid-game does not. Pick the shortest cabinet on offer if you just want the trophy; it is one of the cheapest bronzes on the list and pairs naturally with the Master of None activity sampler.",
+   "steps": ["Enter any arcade interior", "Start a cabinet game", "Play to the game-over or clear screen", "Trophy awards as you leave the cabinet"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 22, "name": "Road to Rehabilitation", "description": "Complete the final mission for Andy.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Strangers — Andy", "missable": true,
+   "missableNote": "Strand window: TechWiser reports the stranger chains sit in windows tied to story progress. Keep Andy's strand current as you advance the chapters and never leave it hanging past the finale.",
+   "target": "Andy's final strand mission",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "1-2 h strand",
+   "guide": "The closing mission of Andy's stranger strand. Strands unlock in stages between story missions, so the method is rhythm, not hunting: after each chapter, check the map for Andy's next marker before starting story work. TechWiser reports these chains have windows tied to story progress, so treat an unfinished strand as a debt the finale can collect. The trophy awards when Andy's final mission closes.",
+   "steps": ["Meet Andy and open the strand when his marker appears", "Advance each stage between story chapters", "Finish the strand before the endgame sequence", "Trophy awards on the final mission for Andy"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies", "TechWiser — stranger-chain story windows"]
+  },
+  {
+   "id": 23, "name": "This Was No Boat Accident", "description": "Complete the final mission for Kenton.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Strangers — Kenton", "missable": true,
+   "missableNote": "Strand window: TechWiser reports the stranger chains sit in windows tied to story progress. Keep Kenton's strand moving alongside the chapters.",
+   "target": "Kenton's final strand mission",
+   "earnPct": 0.02, "rarity": "Ultra Rare", "time": "1-2 h strand",
+   "guide": "Kenton's strand finale, water-flavoured as the name hints. As with every strand in this guide: open it when the marker appears, advance it between story beats, and do not let it sit unfinished while you push chapters, because the reported strand windows close with story progress. The trophy fires when Kenton's last mission wraps.",
+   "steps": ["Open Kenton's strand when his marker appears", "Advance each stage between story missions", "Complete the final mission for Kenton", "Trophy awards at the strand's close"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies", "TechWiser — stranger-chain story windows"]
+  },
+  {
+   "id": 24, "name": "The Lone Rider", "description": "Complete the final mission for Billy.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Strangers — Billy", "missable": true,
+   "missableNote": "Strand window: TechWiser reports the stranger chains sit in windows tied to story progress. Keep Billy's strand current as the chapters advance.",
+   "target": "Billy's final strand mission",
+   "earnPct": 0.02, "rarity": "Ultra Rare", "time": "1-2 h strand",
+   "guide": "The last mission of Billy's strand. Billy's chain is one of the five stranger chains TechWiser flags as windowed by story progress, so the safe pattern is the one this whole guide repeats: a strand stage after every story mission in its area, never three chapters of backlog. Finish the finale and the trophy is yours.",
+   "steps": ["Open Billy's strand when the marker appears", "Keep pace with the strand between chapters", "Complete the final mission for Billy", "Trophy awards at the strand's close"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies", "TechWiser — stranger-chain story windows"]
+  },
+  {
+   "id": 25, "name": "Strangers & Freaks", "description": "Complete 8 mission strands for strangers across the state of Leonida.", "grade": "silver", "points": 30,
+   "secret": false, "kind": "story", "section": "Strangers & Freaks (all strands)", "missable": false, "target": "8 stranger strands",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "8-12 h",
+   "guide": "The silver umbrella over the strand system: complete eight full stranger mission strands anywhere in Leonida. The named finales in this tracker (Andy, Kenton, Billy, Randy, Tyrone, Bret) are six of them; the remaining strands are shorter encounters scattered over the map. Because the chains are windowed by story progress, start strands early and finish them in the order they open rather than stockpiling introductions.",
+   "steps": ["Open every stranger strand as its marker appears", "Finish strands in the order they open", "Count completed strands in the in-game checklist", "Trophy awards on the eighth completed strand"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies", "TechWiser — stranger-chain story windows"]
+  },
+  {
+   "id": 26, "name": "Supply & Demand", "description": "Complete the final mission for Randy.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Strangers — Randy", "missable": true,
+   "missableNote": "Strand window: TechWiser reports the stranger chains sit in windows tied to story progress. Do not leave Randy's finale past the endgame.",
+   "target": "Randy's final strand mission",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "1-2 h strand",
+   "guide": "Randy's strand finale. Randy's chain is one of the windowed stranger chains, so work it in step with the story: open it early, clear a stage whenever you are in his part of the map, and have the finale done before the endgame. The trophy awards when the final mission for Randy closes.",
+   "steps": ["Open Randy's strand when the marker appears", "Advance stages between story missions", "Complete the final mission for Randy", "Trophy awards at the strand's close"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies", "TechWiser — stranger-chain story windows"]
+  },
+  {
+   "id": 27, "name": "Spin On This!", "description": "Complete the final mission for Tyrone.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Strangers — Tyrone", "missable": true,
+   "missableNote": "Strand window: TechWiser reports the stranger chains sit in windows tied to story progress. Keep Tyrone's strand ahead of the finale.",
+   "target": "Tyrone's final strand mission",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "1-2 h strand",
+   "guide": "The closing mission of Tyrone's strand. Same discipline as the other four windowed chains: start it when it appears, keep it moving between chapters, and close it before the story's point of no return. Completion of the finale is the whole requirement.",
+   "steps": ["Open Tyrone's strand when the marker appears", "Advance each stage alongside the story", "Complete the final mission for Tyrone", "Trophy awards at the strand's close"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies", "TechWiser — stranger-chain story windows"]
+  },
+  {
+   "id": 28, "name": "Positive Mental Attitude", "description": "Meditate at every spot across Leonida.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "collectibles", "section": "Meditation spots", "missable": true,
+   "missableNote": "The one trophy GTABase and PowerPyx flag as possibly missable: some spots sit in places the story changes. Sweep spots region by region as you unlock them instead of saving them all for the endgame.",
+   "target": "Every meditation spot",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "3-5 h",
+   "guide": "Meditate at every marked spot in Leonida. This is the only trophy GTABase and PowerPyx flag as possibly missable, because spots sit in locations the story can change, so the safe method is regional: whenever a chapter opens new ground, clear its spots before moving on. Each spot needs only the short meditation interaction; the in-game checklist counts them, and a spot you have used stays marked.",
+   "steps": ["Clear each region's meditation spots as the story opens it", "Use the interaction prompt and complete the short meditation", "Track the count in the in-game checklist", "Trophy awards at the final spot"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies", "GTABase and PowerPyx missable flags (via EGamers)"]
+  },
+  {
+   "id": 29, "name": "Fair Game", "description": "Hunt a unique animal for Bret.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Strangers — Bret", "missable": false, "target": "1 unique animal hunt",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "~1 h",
+   "guide": "Bret's strand ends in a hunt for a unique animal: a named, one-off specimen rather than the species at large. Take the tracking stages slowly, use the scent and sign prompts the strand teaches you, and bring a scoped rifle for the final approach so the shot is clean at distance. The trophy awards when the hunt closes and you report back to Bret.",
+   "steps": ["Open Bret's strand and complete its tracking stages", "Follow the signs to the unique animal's ground", "Take the animal cleanly at range", "Return to Bret to close the strand", "Trophy awards at the strand's close"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 30, "name": "Don't Touch My Deck", "description": "Complete 3 Collectible Card sets.", "grade": "silver", "points": 30,
+   "secret": false, "kind": "collectibles", "section": "Collectible cards", "missable": false, "target": "3 full card sets",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "8-12 h",
+   "guide": "Collectible cards are scattered through interiors and landmarks, and a set completes only when every card in it is in your pocket. Pick three sets and commit: work them district by district, checking each card off in this tracker as you take it, because the game's own counter only shows set totals. Cards are small and sit at hand height on counters, shelves and tills — search a location's inside, not its roofline. Three completed sets, not three started ones, is the bar.",
+   "steps": ["Choose three sets and note their card counts", "Sweep district by district, indoors first", "Check off each card in this tracker as you collect it", "Trophy awards when the third set completes"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 31, "name": "You WAiNKer!", "description": "WAiNK It at 100 locations.", "grade": "silver", "points": 30,
+   "secret": false, "kind": "collectibles", "section": "WAiNK spots", "missable": false, "target": "100 locations",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "4-6 h",
+   "guide": "One hundred WAiNK spots across Leonida: the interaction is quick, so this is a routing trophy, not a skill one. The spots cluster in built-up areas, which makes a spiral out from Vice City the fastest pattern — clear a district fully before crossing the map. Mark each use in this tracker as you go; the last ten always hide in the district you assumed was finished.",
+   "steps": ["Start in Vice City and clear WAiNK spots district by district", "Use the interaction at each marked location", "Track the running total in the in-game checklist", "Trophy awards at the 100th location"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 32, "name": "One Last Thing", "description": "Complete 50 Challenges.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "activities", "section": "Challenges", "missable": false, "target": "50 challenges",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "5-8 h",
+   "guide": "The game's challenge board hands out short scored tasks — driving lines, combat feats, stunt targets — and fifty completions is the bar. Keep two or three challenges pinned at all times so ambient play keeps finishing them, and knock out the location-specific ones whenever a story mission drops you nearby. Bronze-grade completions count: take the easy tier of everything first and only climb tiers if the board runs dry.",
+   "steps": ["Pin two or three active challenges at all times", "Clear the easy tier of each challenge family first", "Do location-specific challenges when missions take you there", "Trophy awards on the 50th completion"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 33, "name": "Hot Together", "description": "Lose a 4 star Wanted Level with your partner and escape the heat.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "activities", "section": "Partner co-op", "missable": false, "target": "Escape a 4-star wanted level with partner",
+   "earnPct": 0.31, "rarity": "Ultra Rare", "time": "~20 min",
+   "guide": "An offline partner trophy: raise a four-star wanted level while your partner is with you, then lose it properly — out of sight until the stars drain, not by arrest, death or a pay-off. The reliable setup is a fast car, a crime spree somewhere with a tunnel or multi-storey nearby, and the discipline to hide the moment the search cones start sweeping. Both of you must still be in the escape when the level clears.",
+   "steps": ["Have your partner with you and raise a 4-star wanted level", "Break line of sight and reach your hiding route", "Stay hidden until the wanted level fully clears", "Trophy awards when the heat is gone"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies", "Games.gg — every GTA VI trophy is offline"]
+  },
+  {
+   "id": 34, "name": "Retail Therapy", "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "activities", "section": "Partner co-op", "missable": false, "target": "3 shops in one wanted run",
+   "earnPct": 0.04, "rarity": "Ultra Rare", "time": "~30 min",
+   "guide": "Three shop robberies in a single unbroken wanted run, with your partner along. Plan the route first: pick three shops in a loose triangle, rob the first, and drive the route without ever letting the wanted level fully expire between tills — the chain breaks if the stars drain or either of you is busted. Keep the car intact; a fresh vehicle mid-chain is fine as long as the heat stays on.",
+   "steps": ["Pick three shops on one drivable route", "Rob the first with your partner and take the wanted level", "Hit shops two and three before the level expires", "Trophy awards on the third till"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies", "Games.gg — every GTA VI trophy is offline"]
+  },
+  {
+   "id": 35, "name": "Whip It Good", "description": "Discover 100 vehicles.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "collectibles", "section": "Vehicles", "missable": false, "target": "100 vehicles discovered",
+   "earnPct": 1.7, "rarity": "Very Rare", "time": "2-3 h active",
+   "guide": "A vehicle counts as discovered the first time you get in it, so this is a car-spotting habit: never walk past a model you have not driven. Rich districts spawn the exotics, the docks and farms carry the work vehicles, and emergency and service models only appear at their posts. Most of the hundred arrives naturally if you steal rather than summon; the deliberate tail is the rare stuff — airport, marina and racetrack spawns.",
+   "steps": ["Enter every new model you see, even for a metre", "Work rich, industrial and rural districts for their pools", "Check airport, marina and service spawns for the rare tail", "Trophy awards on the 100th discovered vehicle"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 36, "name": "Gunslinger", "description": "Take down 5 enemies in a single use of Combat Focus.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "activities", "section": "Combat", "missable": false, "target": "5 takedowns in one Combat Focus",
+   "earnPct": 0.08, "rarity": "Ultra Rare", "time": "~30 min",
+   "guide": "Combat Focus slows the fight; the trophy wants five takedowns inside one activation, so set the table before you trigger it: a gang operation or police standoff with at least five enemies already in view, a full magazine and targets pre-marked in your head left to right. Trigger, then work the line without repositioning. If the fifth kill keeps escaping you, soften a group with a thrown explosive first — damaged enemies drop faster inside the window.",
+   "steps": ["Find a fight with five or more enemies in view", "Reload and line up your target order", "Trigger Combat Focus once", "Drop five enemies before it ends", "Trophy awards on the fifth takedown"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 37, "name": "Catch Me If You Can", "description": "Make an unscheduled departure at VCIA.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "activities", "section": "Vice City International Airport", "missable": false, "target": "1 unscheduled departure",
+   "earnPct": 0.23, "rarity": "Ultra Rare", "time": "~15 min",
+   "guide": "An unscheduled departure means taking a plane out of Vice City International without filing anything: get airside, take an aircraft that is not yours, and get airborne. The airside fence has vehicle gaps near the service roads; once on the apron, choose the nearest jet, accept the wanted level as the cost, and climb out over the water. The trophy fires once you are properly airborne in the stolen aircraft.",
+   "steps": ["Enter VCIA airside through a service gap", "Take a parked aircraft", "Take off and climb clear of the airport", "Trophy awards once airborne"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 38, "name": "Challenging Tank", "description": "Kinda hot in these Rhinos.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "activities", "section": "Free roam — heavy armour", "missable": false, "target": "Raise the heat in a Rhino tank",
+   "earnPct": 0.2, "rarity": "Ultra Rare", "time": "~20 min",
+   "guide": "The description is the method: get into a Rhino tank and make it hot — build a serious wanted level while driving it. Military armour sits behind military fences, so expect a fight or a fast smash-and-grab to take one; once inside, the tank shrugs off what ends a normal rampage. Roll into traffic, let the stars climb, and the trophy pops while the heat is on you in the tank.",
+   "steps": ["Take a Rhino from a military spawn", "Drive it into populated roads", "Build the wanted level while staying in the tank", "Trophy awards as the heat peaks"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 39, "name": "Sneakthief", "description": "Rob a jewelry store without being detected.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "activities", "section": "Heists — stealth", "missable": false, "target": "1 undetected jewelry robbery",
+   "earnPct": 0.04, "rarity": "Ultra Rare", "time": "~30 min",
+   "guide": "A clean-hands robbery: empty a jewelry store's cases and leave with no detection state at all — no alarm, no witness call, no wanted level. Go at night with a suppressed approach, deal with the clerk quietly before touching the cases, and watch the door: a pedestrian witness seeing drawn weapons through the glass ruins the run. Smash, bag and walk out calmly; if the detection meter fills at any point, restart the attempt rather than forcing it.",
+   "steps": ["Enter a jewelry store at a quiet hour, undetected", "Neutralise the clerk quietly before the cases", "Empty the cases without raising the meter", "Leave with no wanted level", "Trophy awards on the clean exit"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 40, "name": "Maximum Withdrawal", "description": "Rob 5 Bank Vaults and escape.", "grade": "silver", "points": 30,
+   "secret": false, "kind": "activities", "section": "Heists — bank vaults", "missable": false, "target": "5 bank vault robberies",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "2-3 h",
+   "guide": "Five full bank vault robberies, each closed by a real escape: crack the vault, take the money and lose the resulting heat. Banks run a heavier response than shops, so bring armour, a planned exit street and a swap car parked a block away. Rob, change vehicles once the first stars settle, and hide out the rest. Five separate banks or repeats both count as long as each run ends in an escape, not a bust.",
+   "steps": ["Case a bank and park a swap car nearby", "Crack the vault and take the cash", "Escape: swap cars, break sight, hide out the heat", "Repeat to five escaped vault robberies", "Trophy awards on the fifth escape"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 41, "name": "A Classic Blitz Play", "description": "Rob an Armored Truck and escape.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "activities", "section": "Heists — armored trucks", "missable": false, "target": "1 armored truck robbery + escape",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "~30 min",
+   "guide": "Armored trucks run fixed cash routes and their rear doors are the weak point: block the truck with a heavy vehicle, deal with the guards fast, and blow or force the doors. The money drops as cases; grab them and go — the escape is part of the trophy, so have a car waiting that is not the one you blocked with. Lose the heat and the award lands.",
+   "steps": ["Intercept an armored truck on its route", "Stop it and deal with the guards", "Force the rear doors and take the cash cases", "Escape and lose the wanted level", "Trophy awards once the heat clears"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 42, "name": "The Goodtime State", "description": "Explore all of Leonida.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "collectibles", "section": "Whole map", "missable": false, "target": "Reveal the full map",
+   "earnPct": 0.04, "rarity": "Ultra Rare", "time": "4-6 h",
+   "guide": "Explored means the fog is off every part of the state map, including the water margins and the far keys. The efficient instrument is a plane or helicopter: fly a lawn-mower pattern over the remaining grey at medium altitude, then drop to ground level for any stubborn pockets around interiors and islands. Watch the map's explored shading rather than your memory — the last grey is always a coastline you flew along but never over.",
+   "steps": ["Open the map and note every fogged region", "Fly a grid pattern over land and keys", "Drop low over stubborn coastal and island pockets", "Trophy awards when no fog remains"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 43, "name": "Pest Control", "description": "Rob an Illegal Operation belonging to each gang.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "activities", "section": "Gang operations", "missable": false, "target": "1 robbery per gang",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "2-3 h",
+   "guide": "Every gang in Leonida runs illegal operations, and each gang's operation must be robbed once — the tracker on this one is variety, not volume. Learn which gangs hold which districts from the map's territory shading, hit one operation per gang, and take the take out alive. Operations are defended, so scout the guard count from the street before you commit, and do the well-guarded ones with full armour.",
+   "steps": ["Identify each gang's territory on the map", "Rob one illegal operation in the first gang's ground", "Repeat once per remaining gang", "Trophy awards when every gang has been hit"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 44, "name": "In The Beginning…", "description": "Enjoy a cocktail with a view on Ocean Beach.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "activities", "section": "Ocean Beach", "missable": false, "target": "1 cocktail at Ocean Beach",
+   "earnPct": 0.17, "rarity": "Ultra Rare", "time": "~10 min",
+   "guide": "The gentlest trophy on the list: go to Ocean Beach, find the beachfront bar service, order a cocktail and drink it somewhere with the view the description asks for. It is a hidden trophy because it is a moment, not a task — if the first bar you try only sells bottles, walk the strip: the cocktail interaction sits at the open-air counters facing the water.",
+   "steps": ["Go to Ocean Beach on the Vice City strip", "Find an open-air bar counter facing the water", "Order and drink a cocktail", "Trophy awards as you finish it"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 45, "name": "Capital Offense", "description": "Smash your way out of a vehicle showroom in classic style.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "activities", "section": "Showroom set piece", "missable": false, "target": "1 showroom smash-out",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "~15 min",
+   "guide": "In classic style means through the glass: take a car inside a vehicle showroom and drive it out through the storefront rather than the door. Pick a showroom with a car you can actually start, line up on the window away from the pillars, and commit to the throttle — a half-hearted tap bounces off. The trophy fires as you land on the street in the showroom car.",
+   "steps": ["Enter a vehicle showroom with drivable stock", "Get in a car and face the storefront glass", "Accelerate clean through the window", "Trophy awards on the street outside"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 46, "name": "Let's Go Bowling", "description": "Follow-through at the Kolt & Associates' bowling alley.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "activities", "section": "Kolt & Associates bowling", "missable": false, "target": "Complete the bowling follow-through",
+   "earnPct": 1.26, "rarity": "Very Rare", "time": "~15 min",
+   "guide": "A story-flavoured set piece at the Kolt & Associates bowling alley: when the game takes you there, play the scene through its bowling beat rather than rushing the exit — the follow-through the description names is the bowling action itself, taken to its end. At 1.26% it is one of the more-earned hidden trophies, which fits a moment most story players meet naturally. If you bowled past it, the alley stays open in free roam for the interaction.",
+   "steps": ["Go to the Kolt & Associates bowling alley", "Take the bowling interaction when the scene offers it", "Play the follow-through to its end", "Trophy awards as the scene resolves"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 47, "name": "Personal Best", "description": "A partnership with mass appeal.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Story — partnership", "missable": false, "target": "Story partnership moment",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "Story progress",
+   "guide": "One of the deliberately vague hidden descriptions: a partnership moment with mass appeal, which week-one reporting ties to the protagonists' joint story rather than any free-roam system. The working method is simply not to rush: play the story with both protagonists' joint scenes unskipped, and take the optional joint activities when the game offers them around the middle chapters. If you finish the finale without it, reload the pre-finale save this guide tells you to keep and sweep the joint interactions before re-entering the endgame.",
+   "steps": ["Play joint story scenes without skipping", "Take optional partner activities when offered mid-story", "Keep the pre-finale manual save as insurance", "Trophy awards when the partnership moment lands"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 48, "name": "Actions Speak Louder", "description": "Choices made (for better or worse).", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "story", "section": "Story — choices", "missable": true,
+   "missableNote": "Choice-driven description: treat it as missable. Keep a manual save before the story's big decision points so a different choice is one reload away, not one playthrough away.",
+   "target": "Make the story's choices",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "Story progress",
+   "guide": "The description is a warning label: this one is about the story's choices, for better or worse. Because a choice cannot be unmade in the same save, the whole method is save discipline — one manual save before every obvious decision point (a prompt, a branching conversation, a spare-or-kill beat). Play your first choice honestly; if the trophy does not land by the credits, reload the decision saves and take the other branch. That is exactly what the saves are for.",
+   "steps": ["Save manually before every story decision point", "Play your first choice through", "If it has not awarded by the credits, reload a decision save", "Take the other branch", "Trophy awards when the qualifying choice resolves"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 49, "name": "Bad Luck, I Guess", "description": "Second time's the charm.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "activities", "section": "Retry event", "missable": false, "target": "Succeed on a second attempt",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "~20 min",
+   "guide": "Second time's the charm means the trophy wants a failure followed by a success at the same attemptable event: races, challenges and strand tasks all qualify as retryable ground. The clean way to force it is deliberate: enter a short race, abandon or throw it at the line, immediately re-enter and win. If it does not fire on races, repeat the pattern on a challenge-board task — the requirement is the fail-then-succeed shape, not the venue.",
+   "steps": ["Enter a short race or challenge", "Fail or abandon the first attempt", "Re-enter the same event at once", "Win the second attempt", "Trophy awards on the successful retry"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 50, "name": "The Truth Is Out There", "description": "What the hell just happened?", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "activities", "section": "Strange encounter", "missable": false, "target": "Witness the strange event",
+   "earnPct": 0.72, "rarity": "Ultra Rare", "time": "Free roam",
+   "guide": "The game's strange-encounter trophy: something out in Leonida is not normal, and the trophy fires for witnessing it. At 0.72% it is the most-earned of the sub-1% trophies, which says the encounter finds most players who roam at night rather than the other way round. Spend free-roam time outside the city after dark — rural roads, the swamps, the keys — and when the sky or the road does something impossible, stay and watch it finish instead of driving on.",
+   "steps": ["Free-roam rural Leonida at night", "Investigate anything the game frames as wrong", "Stay for the whole event", "Trophy awards as the encounter ends"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 51, "name": "Ten Pin", "description": "Bowl 'em over with a melee drive-by.", "grade": "bronze", "points": 15,
+   "secret": true, "kind": "activities", "section": "Bowling alley", "missable": false, "target": "Melee drive-by takedowns, bowling style",
+   "earnPct": 0.06, "rarity": "Ultra Rare", "time": "~20 min",
+   "guide": "A melee drive-by is a swing from a moving vehicle: equip a melee weapon in the driver's seat, build a little speed past a tight group of pedestrians or rivals, and swing as you pass — the bowling metaphor is the line of targets, not the venue. A group leaving a venue or queueing at a crossing gives you the pins in a row; two or three clean passes usually satisfy it. Keep the speed moderate: too fast and the swing whiffs, too slow and it is just assault.",
+   "steps": ["Equip a melee weapon while driving", "Find a line of targets on a pavement or crossing", "Drive past at moderate speed and swing", "Repeat until the takedowns register", "Trophy awards on the qualifying pass"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 52, "name": "Dime on the Dollar", "description": "Earn $250,000 laundering Marked Bills through your contacts.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "activities", "section": "Marked Bills laundering", "missable": false, "target": "$250,000 laundered",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "3-4 h",
+   "guide": "Marked Bills come from robberies and operations and are worthless until a contact launders them; the trophy counts the laundered total, not the held total. Build the loop early: rob, bank the marked cash with contacts whenever you pass one, and never sit on a full wallet of dirty money. The bank-vault and gang-operation trophies feed this one naturally, so run them as a pair and the quarter million arrives without a dedicated grind until the tail.",
+   "steps": ["Collect Marked Bills from robberies and operations", "Hand them to laundering contacts regularly", "Track the laundered total, not your cash", "Trophy awards at $250,000 laundered"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 53, "name": "Treat Yo Self", "description": "Spend $100,000 across all shops.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "activities", "section": "Shops", "missable": false, "target": "$100,000 spent in shops",
+   "earnPct": 0.03, "rarity": "Ultra Rare", "time": "Story progress",
+   "guide": "Cumulative spending across every shop type counts — clothes, weapons, vehicle work, property services. It lands on its own if you kit out both protagonists properly: full weapon sets with attachments, a wardrobe each, and regular armour restocks add up faster than one splurge. If you are short late, vehicle customisation is the fastest legitimate sink: a full performance and cosmetic build on one car is five figures at a stroke.",
+   "steps": ["Buy normally: weapons, clothes, armour, vehicle work", "Kit out both protagonists fully", "Use vehicle customisation as the late-game top-up", "Trophy awards at $100,000 total spent"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 54, "name": "Little Boxes", "description": "Purchase all garage properties.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "activities", "section": "Garage properties", "missable": false, "target": "All garage properties",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "Money-gated",
+   "guide": "Every garage property on the market, bought outright. This is a money trophy wearing a property trophy's clothes: the garages themselves are cheap compared with what the laundering and robbery loops earn, so the method is simply to buy each one the first time a heist payout covers it rather than saving for a spree. The property list in the phone shows what is left; the last garage is usually the rural one nobody drives past.",
+   "steps": ["Open the property list and note every garage for sale", "Buy each as robbery income allows", "Check the list for the one rural holdout", "Trophy awards on the final purchase"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  },
+  {
+   "id": 55, "name": "On the Spot", "description": "Register 10 vehicles to the Scooter Bros app.", "grade": "bronze", "points": 15,
+   "secret": false, "kind": "activities", "section": "Scooter Bros app", "missable": false, "target": "10 vehicles registered",
+   "earnPct": 0.01, "rarity": "Ultra Rare", "time": "~30 min",
+   "guide": "Open the Scooter Bros app on the phone while standing with a vehicle and register it; ten registrations is the whole ask. Stolen cars count, so the fast method is a car park or a dealership row: register, step to the next vehicle, repeat. They do not need to be yours, owned or stored — registration is the act, not the ownership.",
+   "steps": ["Stand with any vehicle and open the Scooter Bros app", "Register the vehicle", "Repeat with nine more vehicles", "Trophy awards on the tenth registration"],
+   "sources": ["Official PlayStation trophy list", "Exophase — GTA VI PSN trophies"]
+  }
+ ],
+ "sources": [
+  "Official PlayStation 5 trophy list for Grand Theft Auto VI — the 55 names, descriptions and grades as published (1 platinum, 2 gold, 6 silver, 46 bronze; 28 hidden until earned).",
+  "Exophase — Grand Theft Auto VI PSN trophies (exophase.com/game/grand-theft-auto-vi-psn/trophies/): live earn rates per trophy, read 21 November 2026; rarity bands in this guide are computed from those rates.",
+  "PSNProfiles — GTA VI trophy list: cross-check of names, grades and the hidden set.",
+  "TechWiser — reports the Stranger mission chains have windows tied to story progress (missable warnings on the five strand finales).",
+  "GTABase and PowerPyx — flag Positive Mental Attitude as the one possibly missable trophy (roundup via EGamers, egamers.io).",
+  "EGamers and Games.gg trophy roundups — all 55 trophies are offline and single-player; no online trophies on the list; A Long Road rated the hardest trophy."
+ ]
+}
