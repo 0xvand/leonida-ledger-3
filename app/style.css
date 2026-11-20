@@ -1,0 +1,153 @@
+/* Leonida Ledger — Week One Edition. A ledger-book look: deep harbour teal,
+   warm paper cards, one sunset accent. No images, no webfonts, no network. */
+:root {
+  --ink: #12212b;
+  --paper: #f7f2e7;
+  --card: #fffdf6;
+  --teal: #0d3b4c;
+  --teal-2: #11697a;
+  --sunset: #ff7a45;
+  --sunset-2: #ffb347;
+  --gold: #b8860b;
+  --silver: #707880;
+  --bronze: #a05c2c;
+  --platinum: #3d7ea6;
+  --danger: #b3261e;
+  --danger-bg: #fdecea;
+  --ok: #1e7d32;
+  --line: #d8cfba;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: Georgia, 'Times New Roman', serif;
+  background: var(--paper);
+  color: var(--ink);
+}
+#masthead {
+  display: flex; justify-content: space-between; align-items: stretch; gap: 24px;
+  padding: 18px 28px 14px;
+  background: linear-gradient(120deg, var(--teal) 55%, var(--teal-2) 80%, var(--sunset) 130%);
+  color: #fdf6e3;
+  border-bottom: 4px solid var(--sunset);
+}
+.kicker { margin: 0 0 2px; font-size: 12px; letter-spacing: .14em; text-transform: uppercase; opacity: .85; }
+#masthead h1 { margin: 0; font-size: 44px; letter-spacing: .04em; }
+.edition { margin: 4px 0 0; font-style: italic; font-size: 15px; }
+.mast-progress {
+  min-width: 300px; background: rgba(255, 253, 246, .12);
+  border: 1px solid rgba(255, 253, 246, .35); border-radius: 10px; padding: 10px 16px;
+}
+.progress-big { font-size: 34px; font-weight: bold; line-height: 1; }
+.progress-bar { height: 10px; background: rgba(0,0,0,.35); border-radius: 6px; margin: 8px 0 6px; overflow: hidden; }
+#progress-fill { height: 100%; width: 0%; background: linear-gradient(90deg, var(--sunset-2), var(--sunset)); transition: width .3s; }
+#progress-line { margin: 0; font-size: 14px; }
+.progress-next { margin: 4px 0 0; font-size: 12.5px; font-style: italic; opacity: .9; }
+
+#roadmap-strip {
+  display: flex; gap: 6px; flex-wrap: wrap; align-items: center;
+  padding: 8px 28px; background: #efe7d3; border-bottom: 1px solid var(--line);
+  font-size: 12.5px;
+}
+#roadmap-strip .strip-label { font-weight: bold; letter-spacing: .08em; text-transform: uppercase; font-size: 11px; }
+#roadmap-strip .stage-chip {
+  background: var(--card); border: 1px solid var(--line); border-radius: 20px;
+  padding: 2px 10px; cursor: pointer; font-family: inherit; font-size: 12.5px;
+}
+#roadmap-strip .stage-chip.done { background: #e2f2e4; border-color: var(--ok); }
+#roadmap-strip .stage-chip .hrs { color: #6b6250; font-style: italic; }
+
+#toolbar {
+  display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
+  padding: 12px 28px; background: var(--card); border-bottom: 2px solid var(--line);
+  position: sticky; top: 0; z-index: 5;
+}
+#search { flex: 1 1 220px; padding: 8px 12px; font-size: 15px; font-family: inherit; border: 1px solid var(--line); border-radius: 8px; }
+#kind-chips { display: flex; gap: 6px; flex-wrap: wrap; }
+.chip {
+  font-family: inherit; font-size: 13.5px; padding: 5px 12px; border-radius: 20px;
+  border: 1px solid var(--teal-2); background: transparent; color: var(--teal); cursor: pointer;
+}
+.chip.active { background: var(--teal); color: #fff; }
+.chip.warn { border-color: var(--danger); color: var(--danger); }
+.chip.warn.active { background: var(--danger); color: #fff; }
+#toolbar label { font-size: 13.5px; display: flex; gap: 6px; align-items: center; }
+#toolbar select { font-family: inherit; font-size: 13.5px; padding: 4px; }
+#export-btn, .import-btn {
+  font-family: inherit; font-size: 13.5px; padding: 6px 12px; border-radius: 8px;
+  border: 1px solid var(--teal); background: var(--teal); color: #fff; cursor: pointer;
+}
+
+#layout { display: grid; grid-template-columns: minmax(0, 1.55fr) minmax(330px, 1fr); gap: 20px; padding: 16px 28px; align-items: start; }
+#list-summary { margin: 0 0 10px; font-style: italic; color: #5a5344; }
+#trophy-list { display: flex; flex-direction: column; gap: 8px; }
+.trophy-row {
+  display: grid; grid-template-columns: 30px 12px 1fr auto; gap: 10px; align-items: center;
+  background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+  padding: 9px 12px; cursor: pointer; text-align: left; width: 100%; font-family: inherit;
+}
+.trophy-row:hover { border-color: var(--teal-2); }
+.trophy-row.selected { border-color: var(--sunset); box-shadow: 0 0 0 2px var(--sunset-2); }
+.trophy-row.earned { background: #eef7ee; }
+.trophy-row input[type="checkbox"] { width: 19px; height: 19px; accent-color: var(--ok); cursor: pointer; }
+.grade-dot { width: 12px; height: 12px; border-radius: 50%; }
+.grade-platinum { background: var(--platinum); } .grade-gold { background: var(--gold); }
+.grade-silver { background: var(--silver); } .grade-bronze { background: var(--bronze); }
+.row-main .row-name { font-weight: bold; font-size: 16.5px; }
+.row-main .row-desc { font-size: 13.5px; color: #4c4636; font-style: italic; }
+.row-meta { display: flex; gap: 8px; align-items: center; font-size: 12.5px; white-space: nowrap; }
+.pill { border-radius: 12px; padding: 1px 9px; border: 1px solid var(--line); background: #f3eddc; }
+.pill.rarity { font-weight: bold; }
+.pill.miss { background: var(--danger-bg); border-color: var(--danger); color: var(--danger); font-weight: bold; }
+.pill.secret { background: #e8e4f5; border-color: #6a5acd; color: #463a8a; }
+.row-name .earned-tick { color: var(--ok); }
+
+#detail-pane { position: sticky; top: 76px; }
+#detail-empty, #detail-card {
+  background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 18px 20px;
+}
+#detail-card h2 { margin: 2px 0 4px; font-size: 24px; }
+.detail-grade { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin: 6px 0; }
+.official { font-style: italic; color: #4c4636; border-left: 3px solid var(--sunset); padding-left: 10px; margin: 10px 0; }
+.rarity-bar { height: 8px; background: #eee5cd; border-radius: 5px; overflow: hidden; margin: 4px 0 2px; }
+.rarity-bar div { height: 100%; background: linear-gradient(90deg, var(--teal-2), var(--sunset)); }
+.detail-facts { font-size: 13.5px; color: #4c4636; }
+.miss-box { background: var(--danger-bg); border: 1px solid var(--danger); border-radius: 8px; padding: 10px 12px; margin: 12px 0; font-size: 14px; }
+.miss-box strong { color: var(--danger); }
+#detail-card h3 { margin: 14px 0 6px; font-size: 15px; letter-spacing: .06em; text-transform: uppercase; }
+#detail-card p.guide-text { font-size: 15px; line-height: 1.45; margin: 0; }
+#detail-card ol { margin: 6px 0; padding-left: 22px; font-size: 14.5px; line-height: 1.5; }
+.sources-line { font-size: 13px; color: #5a5344; }
+.sources-line li { margin: 2px 0; }
+.earn-toggle {
+  font-family: inherit; font-size: 15px; padding: 9px 16px; border-radius: 8px; cursor: pointer;
+  border: 1px solid var(--ok); background: var(--ok); color: #fff; margin-top: 10px;
+}
+.earn-toggle.off { background: transparent; color: var(--ok); }
+
+#roadmap { padding: 8px 28px 4px; }
+#roadmap h2, #sources h2 { font-size: 26px; margin: 10px 0 6px; }
+.roadmap-intro { max-width: 1000px; line-height: 1.5; }
+#roadmap-stages { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; }
+.stage-card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; }
+.stage-card h3 { margin: 0 0 2px; font-size: 17px; }
+.stage-card .stage-hrs { font-style: italic; color: #6b6250; font-size: 13px; margin: 0 0 8px; }
+.stage-card p { font-size: 14px; line-height: 1.45; margin: 0 0 8px; }
+.stage-trophies { display: flex; flex-wrap: wrap; gap: 5px; }
+.stage-trophies button {
+  font-family: inherit; font-size: 12.5px; border: 1px solid var(--line); background: #f3eddc;
+  border-radius: 14px; padding: 2px 9px; cursor: pointer;
+}
+.stage-trophies button.done { background: #e2f2e4; border-color: var(--ok); text-decoration: line-through; }
+.stage-trophies button.miss { border-color: var(--danger); color: var(--danger); }
+.ponr { background: var(--danger-bg); border: 2px solid var(--danger); border-radius: 12px; padding: 14px 18px; margin: 16px 0 8px; max-width: 1000px; }
+.ponr h3 { margin: 0 0 6px; color: var(--danger); }
+.ponr p { margin: 0; line-height: 1.5; font-size: 14.5px; }
+#sources { padding: 8px 28px 30px; }
+#sources ul { line-height: 1.55; max-width: 1000px; }
+.fineprint { font-size: 12.5px; color: #6b6250; max-width: 1000px; line-height: 1.5; }
+@media (max-width: 900px) {
+  #layout { grid-template-columns: 1fr; }
+  #detail-pane { position: static; }
+  #masthead { flex-direction: column; }
+}
